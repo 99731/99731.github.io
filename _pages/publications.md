@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  You can also find my articles on [my Google Scholar profile]({{site.author.googlescholar}} "my Google Scholar profile")
+  You can also find my full articles on [my Google Scholar profile]({{site.author.googlescholar}} "my Google Scholar profile")
 {% endif %}
  
 

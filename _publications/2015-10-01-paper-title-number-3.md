@@ -3,7 +3,7 @@ title: "Deep Session Interest Network for Click-Through Rate Prediction"
 collection: publications
 permalink: /publication/DSIN
 excerpt: "We propose a novel CTR model named Deep Session Interest Network (DSIN) that leverages user's multiple historical sessions in their behavior sequences."
-date: 2019-10-01
+date: 2019-01-01
 venue: 'IJCAI'
 paperurl: "https://arxiv.org/pdf/1905.06482.pdf"
 citation: "https://dblp.org/rec/conf/ijcai/FengLSWSZY19.html?view=bibtex"
